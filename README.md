@@ -2,9 +2,6 @@
 
 Hi, i'm [Abhinav Tomar](https://linkedin.com/in/tomarabhinav/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
   <img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlsamF3bGY1NGx3emtnc2V6NHp3azBwMGpnZm44a3VpdXlwbTdwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [mail me ](mailto:abhinavrtomar@gmail.com) :)
